@@ -1,0 +1,15 @@
+{
+    "name": "andybeak/shell-escaping-demo",
+    "description": "This demonstrates escaping shell commands and arguments.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Beak",
+            "email": "andy.beak@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    }
+}
